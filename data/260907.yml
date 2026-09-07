@@ -5,7 +5,7 @@ about:
   head: 0425d0d
   archived: true
   latestVersion: "v1.8.1"
-  collectedAt: 2026-09-07T04:21:46Z
+  collectedAt: 2026-09-07T20:00:08Z
 timeline:
   created: 2023-03-29
   lastCommit: 2026-03-09
@@ -79,7 +79,7 @@ total:
   commit: 571
 ---
 path: /home/runner/.x-repo/github.com/charmbracelet/mods
-collectedAt: 2026-09-07T04:21:46Z
+collectedAt: 2026-09-07T20:00:10Z
 loc:
   Go:
     code: 5097
@@ -105,7 +105,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:21:47+00:00
+  collectedAt: 2026-09-07T20:00:11+00:00
   platform:
     darwin/arm64:
       name:  mods_1.8.1_Darwin_arm64.tar.gz
