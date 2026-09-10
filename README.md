@@ -14,6 +14,16 @@ AI on the command line
 x install mods
 ```
 
+## Code insight
+
+Total: **5,565** lines of code across **45** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 5,097 | 242 | 682 | 41 |
+| Yaml | 468 | 59 | 5 | 1 |
+| Markdown | 0 | 282 | 151 | 3 |
+
 ## Source
 
 - **Upstream**: <https://github.com/charmbracelet/mods>
@@ -24,6 +34,25 @@ x install mods
 - **Latest**: `v1.8.1` (2025-07-10)
 - **Last commit**: 2026-03-09
 - **Assets in release**: 37
+
+## Popularity
+
+- **Stars**: 4,525 · **Forks**: 232 · **Open issues**: 198 · **Contributors**: 55
+
+## Totals (cumulative)
+
+- **Releases**: 17 · **Merged PRs**: 364 · **Open PRs**: 18 · **Closed issues**: 131 · **Open issues**: 67 · **Commits**: 571
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 29 | 12 | 5 | 11 | 33 |
+| last720d | 2024-09-20 | 3 | 177 | 17 | 39 | 51 | 203 |
 
 ## Release assets
 
@@ -67,31 +96,15 @@ x install mods
 | [mods_1.8.1_x86.apk](https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_x86.apk) | 9.9 MiB | `other` |
 | [mods_1.8.1_x86_64.apk](https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_x86_64.apk) | 10.6 MiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 4,525 · **Forks**: 232 · **Open issues**: 198 · **Contributors**: 55
+Reported by **19** distros on [repology.org](https://repology.org/project/mods). **14** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 17 · **Merged PRs**: 364 · **Open PRs**: 18 · **Closed issues**: 131 · **Open issues**: 67 · **Commits**: 571
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-15 | 0 | 29 | 12 | 5 | 11 | 33 |
-
-## Code size
-
-Total: **5,565** lines of code across **45** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 5,097 | 242 | 682 | 41 |
-| Yaml | 468 | 59 | 5 | 1 |
-| Markdown | 0 | 282 | 151 | 3 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.8.1` | ✅ latest |
+| Nix unstable | `1.8.1` | ✅ latest |
+| Alpine edge | `1.8.1` | ✅ latest |
 
 ## Improve this data
 
@@ -102,4 +115,4 @@ Install metadata for mods lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:11:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:18:42Z._
