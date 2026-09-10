@@ -1,0 +1,215 @@
+- repo: t2
+  srcname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  summary: AI on the command line
+  maintainers:
+    - rene@exactco.de
+  licenses:
+    - MIT
+  categories:
+    - extra/tool
+- repo: alpine_edge
+  subrepo: testing
+  srcname: mods
+  binname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: 1.8.1-r9
+  status: newest
+  summary: AI for the command line, built for pipelines.
+  maintainers:
+    - guy.godfroy@gugod.fr
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: mods
+  binname: mods-doc
+  visiblename: mods-doc
+  version: 1.8.1
+  origversion: 1.8.1-r9
+  status: newest
+  summary: AI for the command line, built for pipelines. (documentation)
+  maintainers:
+    - guy.godfroy@gugod.fr
+  licenses:
+    - MIT
+- repo: aosc
+  srcname: app-utils/mods
+  binname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: 1.8.1-6
+  status: newest
+  summary: CLI-based AI client
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - utils
+- repo: aur
+  srcname: mods
+  binname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: 1.8.1-1
+  status: newest
+  summary: AI for the command line, built for pipelines
+  maintainers:
+    - chrislane@aur
+    - toby@aur
+    - muesli@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mods-bin
+  binname: mods-bin
+  visiblename: mods-bin
+  version: 1.8.1
+  origversion: 1.8.1-1
+  status: newest
+  summary: AI on the command line
+  maintainers:
+    - caarlos0@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mods-git
+  binname: mods-git
+  visiblename: mods-git
+  version: 1.7.0.r28.g0e7d29c
+  origversion: 1.7.0.r28.g0e7d29c-1
+  status: rolling
+  summary: Render markdown on the CLI, with pizzazz!
+  maintainers:
+    - olivertzeng@aur
+  licenses:
+    - MIT
+- repo: freebsd
+  srcname: sysutils/mods
+  binname: mods
+  visiblename: sysutils/mods
+  version: 1.8.1
+  origversion: 1.8.1_11
+  status: newest
+  summary: AI for the command line, built for pipelines
+  maintainers:
+    - mopp7@proton.me
+  categories:
+    - sysutils
+- repo: homebrew
+  srcname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  summary: AI on the command-line
+- repo: homebrew
+  srcname: mods
+  visiblename: mods
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: AI on the command-line
+- repo: nix_stable_24_05
+  srcname: mods
+  visiblename: mods
+  version: 1.3.1
+  origversion: null
+  status: outdated
+  summary: AI on the command line
+  maintainers:
+    - 7rat13@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: mods
+  visiblename: mods
+  version: 1.6.0
+  origversion: null
+  status: outdated
+  summary: AI on the command line
+  maintainers:
+    - 7rat13@gmail.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: mods
+  visiblename: mods
+  version: 1.7.0
+  origversion: null
+  status: outdated
+  summary: AI on the command line
+  maintainers:
+    - 7rat13@gmail.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  summary: AI on the command line
+  maintainers:
+    - 7rat13@gmail.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  summary: AI on the command line
+  maintainers:
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  summary: AI on the command line
+  maintainers:
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: stalix
+  srcname: bin/mods
+  binname: bin/mods
+  visiblename: bin/mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
+- repo: stalix_dev
+  srcname: bin/mods
+  binname: bin/mods
+  visiblename: bin/mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  maintainers:
+    - anton@samokhvalov.xyz
+  categories:
+    - bin
