@@ -1,24 +1,64 @@
 # mods
 
+[中文版本](./README.cn.md)
+
+> ⚠️ This project is archived.
+
 AI on the command line
 
-- **Upstream**: <https://github.com/charmbracelet/mods>
-- **Homepage**: <>
-- **Latest release**: `v1.8.1` (2025-07-10)
-- **Last commit**: 2026-03-09
-- **License**: MIT
-- **Stars**: 4524 · **Forks**: 232 · **Open issues**: 198 · **Contributors**: 55
+![mods](https://repo.x-cmd.io/mods.svg)
 
-## Installation
+## Install
 
 ```sh
 x install mods
 ```
 
-See <https://x-cmd.com/install/mods> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/charmbracelet/mods>
+- **License**: MIT
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:40:03Z._
+- **Latest**: `v1.8.1` (2025-07-10)
+- **Last commit**: 2026-03-09
+- **Assets in release**: 37
+- **Published**: 2025-07-10T17:39:47Z
+
+## Popularity
+
+- **Stars**: 4,524 · **Forks**: 232 · **Open issues**: 198 · **Contributors**: 55
+
+## Totals (cumulative)
+
+- **Releases**: 17 · **Merged PRs**: 364 · **Open PRs**: 18 · **Closed issues**: 131 · **Open issues**: 67 · **Commits**: 571
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 29 | 12 | 5 | 11 | 33 |
+
+## Code size
+
+Total: **5,565** lines of code across **45** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 5,097 | 242 | 682 | 41 |
+| Yaml | 468 | 59 | 5 | 1 |
+| Markdown | 0 | 282 | 151 | 3 |
+
+## Improve this data
+
+Install metadata for mods lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mods` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/mods.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:25:12Z._
