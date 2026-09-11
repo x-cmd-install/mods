@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10453962,
       "digest": "sha256:a09528a438487fbda43809d5adcbc4211a5020bd69372ff0d319a8f28bd900b2",
-      "download_count": 3435,
+      "download_count": 3440,
       "created_at": "2025-07-10T17:39:40Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Darwin_arm64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 11214035,
       "digest": "sha256:0ae5f55ae1764fd47c347a7b4e75b71dbcdbb41e56c64bf90be4f1481dba0377",
-      "download_count": 314,
+      "download_count": 315,
       "created_at": "2025-07-10T17:39:42Z",
       "updated_at": "2025-07-10T17:39:42Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Darwin_x86_64.tar.gz"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 9959537,
       "digest": "sha256:448d205e27e1ec0cb4e185275ff826e93b16182d35977652db01e4d475b1b671",
-      "download_count": 230,
+      "download_count": 235,
       "created_at": "2025-07-10T17:39:40Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_arm64.tar.gz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 10710072,
       "digest": "sha256:a3313f3064f7c104835e1f9c53788524cfafc1675c1e18fca786b7051766745d",
-      "download_count": 2491,
+      "download_count": 2501,
       "created_at": "2025-07-10T17:39:40Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_x86_64.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 10994921,
       "digest": "sha256:ecad2f4d526bcb853b91136c2b40a123b0127edaca20945378986ceb6d89a52a",
-      "download_count": 2138,
+      "download_count": 2139,
       "created_at": "2025-07-10T17:39:41Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Windows_x86_64.zip"
