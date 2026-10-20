@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3264,
       "digest": "sha256:fe224f7d1bcc3ce4d5a48a9201d4788bee618aec46b18d1e577c6c06b80dc60e",
-      "download_count": 398,
+      "download_count": 403,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3192,
       "digest": "sha256:23528cbcc425a97e2d9ac3ba3e6fa1d021f1dbcd08e6af589097d7224bc8c69a",
-      "download_count": 310,
+      "download_count": 314,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:47Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/checksums.txt.pem"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:b0f91ab82d5ac679c7c7589461eb9140d5420b63d0c85a06400e8a88ab322cb4",
-      "download_count": 251,
+      "download_count": 255,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/checksums.txt.sig"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10382703,
       "digest": "sha256:0b60d0effd4ba487d566618eb8bc53b2c1b7e2467e0b133cb17ab5a37cfd449a",
-      "download_count": 595,
+      "download_count": 596,
       "created_at": "2025-07-10T17:39:44Z",
       "updated_at": "2025-07-10T17:39:45Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods-1.8.1-1.aarch64.rpm"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10475491,
       "digest": "sha256:abd44a842892c9f0dbc5a115f01d4dfef7b9a96513c4d0188265692cbb10ba25",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2025-07-10T17:39:45Z",
       "updated_at": "2025-07-10T17:39:45Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods-1.8.1-1.armv7hl.rpm"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 10454562,
       "digest": "sha256:a96e93b3cb38bcf1629e2c93360a23415de912f90656253bb1f0babfe77ee341",
-      "download_count": 48,
+      "download_count": 49,
       "created_at": "2025-07-10T17:39:44Z",
       "updated_at": "2025-07-10T17:39:45Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods-1.8.1-1.i386.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 11199462,
       "digest": "sha256:664e35f9b10aa56ac31eedd9851362598973cfde19d5069d12aee8d9e6be3a64",
-      "download_count": 1082,
+      "download_count": 1083,
       "created_at": "2025-07-10T17:39:44Z",
       "updated_at": "2025-07-10T17:39:45Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods-1.8.1-1.x86_64.rpm"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 67058,
       "digest": "sha256:798541f063c9a1a2d2056afc5aaf22d755b18571dfb695682f85dee443928f90",
-      "download_count": 90,
+      "download_count": 91,
       "created_at": "2025-07-10T17:39:42Z",
       "updated_at": "2025-07-10T17:39:42Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods-1.8.1.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 120000,
       "digest": "sha256:191b741ecdd9575e4a5a495b27a69ce2c2f1910ac08472c8fce2fdb468f98a5f",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2025-07-10T17:39:45Z",
       "updated_at": "2025-07-10T17:39:45Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods-1.8.1.tar.gz.sbom.json"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 10354872,
       "digest": "sha256:0a18af100df4d3bc1779805ad62ac5c23d5bed15eec1f8bd1d765bad8006a69b",
-      "download_count": 71,
+      "download_count": 72,
       "created_at": "2025-07-10T17:39:43Z",
       "updated_at": "2025-07-10T17:39:43Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_aarch64.apk"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 10749598,
       "digest": "sha256:bd47c051f175a54c631f205653596caf81c4f54d992bb5d4cfb09b4d336867f5",
-      "download_count": 697,
+      "download_count": 700,
       "created_at": "2025-07-10T17:39:44Z",
       "updated_at": "2025-07-10T17:39:44Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_amd64.deb"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 10000720,
       "digest": "sha256:a399a6cdb3a6511336f276e582ff3ce687fab7899228e7c59ba0735c607c830c",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2025-07-10T17:39:43Z",
       "updated_at": "2025-07-10T17:39:44Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_arm64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 10086378,
       "digest": "sha256:ecb28d8d02e610ffdf5baf4f487c9969e092e5309ab8080c4b65a136dbaa0961",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2025-07-10T17:39:43Z",
       "updated_at": "2025-07-10T17:39:44Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_armhf.deb"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 10479661,
       "digest": "sha256:5b32c9fa303fad3840cba178bf78f5290c7e4b96bbfb06095a5ec4b8163f77bf",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2025-07-10T17:39:42Z",
       "updated_at": "2025-07-10T17:39:43Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_armv7.apk"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 10453962,
       "digest": "sha256:a09528a438487fbda43809d5adcbc4211a5020bd69372ff0d319a8f28bd900b2",
-      "download_count": 3596,
+      "download_count": 3601,
       "created_at": "2025-07-10T17:39:40Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Darwin_arm64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 123931,
       "digest": "sha256:72c4388c25106a48d592336ffe062c743023a3c0496f316a4860f2603ab173fe",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2025-07-10T17:39:45Z",
       "updated_at": "2025-07-10T17:39:45Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Darwin_arm64.tar.gz.sbom.json"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 11214035,
       "digest": "sha256:0ae5f55ae1764fd47c347a7b4e75b71dbcdbb41e56c64bf90be4f1481dba0377",
-      "download_count": 337,
+      "download_count": 340,
       "created_at": "2025-07-10T17:39:42Z",
       "updated_at": "2025-07-10T17:39:42Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Darwin_x86_64.tar.gz"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 124172,
       "digest": "sha256:76b90739ed384c42233b72906e4d11109ccf1c92be95190850c7feb5baad0c8e",
-      "download_count": 20,
+      "download_count": 21,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Darwin_x86_64.tar.gz.sbom.json"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 9953615,
       "digest": "sha256:c25f8c3bc9ca9bafe2d9b47a2870e9b12fd72dd73ca075217347fbc532b2f217",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2025-07-10T17:39:41Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Freebsd_arm64.tar.gz"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 124172,
       "digest": "sha256:a854923a853cc2d8605efc26a69bded3f9c3a4107b484b864769cb388248fa5c",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Freebsd_arm64.tar.gz.sbom.json"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 10703216,
       "digest": "sha256:464ac6be4da69cf37d91b15542f56ae8a94781431b2d0766e88ffc5a8d956832",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2025-07-10T17:39:41Z",
       "updated_at": "2025-07-10T17:39:42Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Freebsd_x86_64.tar.gz"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 124413,
       "digest": "sha256:aa4937c8ab575a9b3441c0f920b9b1f972686cdd4d0637363b13f78d2629bd4f",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Freebsd_x86_64.tar.gz.sbom.json"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 10017416,
       "digest": "sha256:68532867481cda38cac3f44d63485b00997d2e890bd8b32f5cb3fbf2bc5f694a",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2025-07-10T17:39:43Z",
       "updated_at": "2025-07-10T17:39:44Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_i386.deb"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 10053265,
       "digest": "sha256:2a274dd70e17896406d4152ae9a2c352db5b7ad40e276a9296dab20e053b6101",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2025-07-10T17:39:42Z",
       "updated_at": "2025-07-10T17:39:42Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_arm.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 121543,
       "digest": "sha256:5b9adc7be129767604f6264721bfcde7a019ad27a5fbb0d17e6c72a2bac23a89",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_arm.tar.gz.sbom.json"
@@ -967,7 +967,7 @@
       "state": "uploaded",
       "size": 9959537,
       "digest": "sha256:448d205e27e1ec0cb4e185275ff826e93b16182d35977652db01e4d475b1b671",
-      "download_count": 283,
+      "download_count": 286,
       "created_at": "2025-07-10T17:39:40Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_arm64.tar.gz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 122019,
       "digest": "sha256:0351702b429d2839aec9ec3a6475c4457a622ee47a1ffc037daa9a5b637bcfcf",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2025-07-10T17:39:45Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_arm64.tar.gz.sbom.json"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 9984766,
       "digest": "sha256:6d58882a63a1fbdc7c9c7b79d70a2b2d475c3172f3f45d4a262e27d944a63687",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2025-07-10T17:39:40Z",
       "updated_at": "2025-07-10T17:39:40Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_i386.tar.gz"
@@ -1075,7 +1075,7 @@
       "state": "uploaded",
       "size": 121781,
       "digest": "sha256:f35c0af6e5581f74dfea53121c004751c13cb7471b29f7300108b4571948d818",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2025-07-10T17:39:45Z",
       "updated_at": "2025-07-10T17:39:45Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_i386.tar.gz.sbom.json"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 10710072,
       "digest": "sha256:a3313f3064f7c104835e1f9c53788524cfafc1675c1e18fca786b7051766745d",
-      "download_count": 2758,
+      "download_count": 2763,
       "created_at": "2025-07-10T17:39:40Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_x86_64.tar.gz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 122257,
       "digest": "sha256:a78ed043546b7567506d374f5dfeafdcf5aee6fd14b7ec102fe67603e0d14f70",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2025-07-10T17:39:45Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Linux_x86_64.tar.gz.sbom.json"
@@ -1183,7 +1183,7 @@
       "state": "uploaded",
       "size": 10044979,
       "digest": "sha256:6b409c753dfe9d5d35c4bf3ff7fba8d34508dbe2f8e38b092c6d7539abe0910d",
-      "download_count": 821,
+      "download_count": 827,
       "created_at": "2025-07-10T17:39:41Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Windows_arm64.zip"
@@ -1219,7 +1219,7 @@
       "state": "uploaded",
       "size": 130419,
       "digest": "sha256:f39db180b0b57e33349114354a7865bc488ec83ca1fcec376fa01e4f58d00592",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Windows_arm64.zip.sbom.json"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 10994921,
       "digest": "sha256:ecad2f4d526bcb853b91136c2b40a123b0127edaca20945378986ceb6d89a52a",
-      "download_count": 2443,
+      "download_count": 2454,
       "created_at": "2025-07-10T17:39:41Z",
       "updated_at": "2025-07-10T17:39:41Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Windows_x86_64.zip"
@@ -1291,7 +1291,7 @@
       "state": "uploaded",
       "size": 130672,
       "digest": "sha256:a49b11fa68c7760e28ae2a4377b4d8703017e7edb994e182f120cb55b2d16983",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2025-07-10T17:39:46Z",
       "updated_at": "2025-07-10T17:39:46Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_Windows_x86_64.zip.sbom.json"
@@ -1327,7 +1327,7 @@
       "state": "uploaded",
       "size": 10418109,
       "digest": "sha256:71da23edee787fa9660eb9e8d16ed8312d95deb09fa62a3ca94a6ea5e9bbe30c",
-      "download_count": 35,
+      "download_count": 36,
       "created_at": "2025-07-10T17:39:42Z",
       "updated_at": "2025-07-10T17:39:43Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_x86.apk"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 11165010,
       "digest": "sha256:766d54eb67d0574a5eeba8b07d5c6ff1b9921f565116b5043a8e54ed8ae13e8f",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2025-07-10T17:39:42Z",
       "updated_at": "2025-07-10T17:39:43Z",
       "browser_download_url": "https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_x86_64.apk"
