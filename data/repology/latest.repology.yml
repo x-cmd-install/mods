@@ -1,3 +1,39 @@
+- repo: aur
+  srcname: mods-git
+  binname: mods-git
+  visiblename: mods-git
+  version: 1.7.0.r28.g0e7d29c
+  origversion: 1.7.0.r28.g0e7d29c-1
+  status: rolling
+  summary: Render markdown on the CLI, with pizzazz!
+  maintainers:
+    - olivertzeng@aur
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: mods
+  visiblename: mods
+  version: 1.7.0
+  origversion: null
+  status: outdated
+  summary: AI on the command line
+  maintainers:
+    - 7rat13@gmail.com
+    - carlos@becker.software
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: null
+  status: newest
+  summary: AI on the command line
+  maintainers:
+    - 7rat13@gmail.com
+    - carlos@becker.software
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: mods
@@ -62,18 +98,6 @@
     - caarlos0@aur
   licenses:
     - MIT
-- repo: aur
-  srcname: mods-git
-  binname: mods-git
-  visiblename: mods-git
-  version: 1.7.0.r28.g0e7d29c
-  origversion: 1.7.0.r28.g0e7d29c-1
-  status: rolling
-  summary: Render markdown on the CLI, with pizzazz!
-  maintainers:
-    - olivertzeng@aur
-  licenses:
-    - MIT
 - repo: freebsd
   srcname: sysutils/mods
   binname: mods
@@ -117,30 +141,6 @@
   version: 1.6.0
   origversion: null
   status: outdated
-  summary: AI on the command line
-  maintainers:
-    - 7rat13@gmail.com
-    - carlos@becker.software
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
-  srcname: mods
-  visiblename: mods
-  version: 1.7.0
-  origversion: null
-  status: outdated
-  summary: AI on the command line
-  maintainers:
-    - 7rat13@gmail.com
-    - carlos@becker.software
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: mods
-  visiblename: mods
-  version: 1.8.1
-  origversion: null
-  status: newest
   summary: AI on the command line
   maintainers:
     - 7rat13@gmail.com
