@@ -1,27 +1,13 @@
-- repo: aur
-  srcname: mods-bin
-  binname: mods-bin
-  visiblename: mods-bin
+- repo: nix_stable_25_11
+  srcname: mods
+  visiblename: mods
   version: 1.8.1
-  origversion: 1.8.1-1
+  origversion: null
   status: newest
   summary: AI on the command line
   maintainers:
-    - caarlos0@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: mods
-  binname: mods
-  visiblename: mods
-  version: 1.8.1
-  origversion: 1.8.1-1
-  status: newest
-  summary: AI for the command line, built for pipelines
-  maintainers:
-    - chrislane@aur
-    - toby@aur
-    - muesli@aur
+    - 7rat13@gmail.com
+    - carlos@becker.software
   licenses:
     - MIT
 - repo: alpine_edge
@@ -63,6 +49,32 @@
   categories:
     - utils
 - repo: aur
+  srcname: mods
+  binname: mods
+  visiblename: mods
+  version: 1.8.1
+  origversion: 1.8.1-1
+  status: newest
+  summary: AI for the command line, built for pipelines
+  maintainers:
+    - chrislane@aur
+    - toby@aur
+    - muesli@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: mods-bin
+  binname: mods-bin
+  visiblename: mods-bin
+  version: 1.8.1
+  origversion: 1.8.1-1
+  status: newest
+  summary: AI on the command line
+  maintainers:
+    - caarlos0@aur
+  licenses:
+    - MIT
+- repo: aur
   srcname: mods-git
   binname: mods-git
   visiblename: mods-git
@@ -79,7 +91,7 @@
   binname: mods
   visiblename: sysutils/mods
   version: 1.8.1
-  origversion: 1.8.1_13
+  origversion: 1.8.1_14
   status: newest
   summary: AI for the command line, built for pipelines
   maintainers:
@@ -129,18 +141,6 @@
   version: 1.7.0
   origversion: null
   status: outdated
-  summary: AI on the command line
-  maintainers:
-    - 7rat13@gmail.com
-    - carlos@becker.software
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: mods
-  visiblename: mods
-  version: 1.8.1
-  origversion: null
-  status: newest
   summary: AI on the command line
   maintainers:
     - 7rat13@gmail.com
