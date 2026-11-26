@@ -37,7 +37,7 @@ Total: **5,565** lines of code across **45** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 4,520 · **Forks**: 233 · **Open issues**: 198 · **Contributors**: 56
+- **Stars**: 4,522 · **Forks**: 234 · **Open issues**: 198 · **Contributors**: 56
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **5,565** lines of code across **45** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 0 | 15 | 5 | 3 | 2 | 16 |
-| last720d | 2024-12-05 | 3 | 149 | 17 | 29 | 46 | 172 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 0 | 14 | 5 | 3 | 2 | 16 |
+| last720d | 2024-12-06 | 3 | 149 | 17 | 29 | 46 | 172 |
 
 ## Release assets
 
@@ -96,16 +96,6 @@ Total: **5,565** lines of code across **45** files in the top 5 languages.
 | [mods_1.8.1_x86.apk](https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_x86.apk) | 9.9 MiB | `other` |
 | [mods_1.8.1_x86_64.apk](https://github.com/charmbracelet/mods/releases/download/v1.8.1/mods_1.8.1_x86_64.apk) | 10.6 MiB | `other` |
 
-## Distribution status
-
-Reported by **19** distros on [repology.org](https://repology.org/project/mods). **14** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.8.1` | ✅ latest |
-| Nix unstable | `1.8.1` | ✅ latest |
-| Alpine edge | `1.8.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for mods lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `mods` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -115,4 +105,4 @@ Install metadata for mods lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:13:41Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:03:32Z._
